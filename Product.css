@@ -1,0 +1,37 @@
+.container-1 {
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  .logo {
+    margin-right: 5%;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    height: 90px;
+    
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    font-size: larger;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 1rem;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    justify-content: center;
+  }
