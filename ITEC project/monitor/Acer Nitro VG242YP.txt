@@ -1,0 +1,5 @@
+Screen 60.5 cm (23.8) Full HD (1920 x 1080)165 Hz Overclock, 144 Hz
+Panel Technology IPS (178°x178°) FreeSync
+Inputs DisplayPort, HDMI
+Response Time 1 ms (G2G), 0. 5ms (G2G Min.)
+Brightness 350 cdm², 400 cdm² HDR Peak
